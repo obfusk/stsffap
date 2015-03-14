@@ -3,4 +3,4 @@
 *.swp
 *~
 
-/example1
+/example[0-9]
