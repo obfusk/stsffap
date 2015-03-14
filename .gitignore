@@ -2,3 +2,5 @@
 *.s
 *.swp
 *~
+
+/example1
